@@ -1,1 +1,1 @@
-# hello-world
+The repository hello world are the programs which I have worked on C programs to various different problems. These programs helped me to make my coding skills strong and also helped in thinking logically.
